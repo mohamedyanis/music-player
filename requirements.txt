@@ -1,0 +1,6 @@
+time
+threading
+tkinter
+ttkthemes
+mutagen
+pygame
