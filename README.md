@@ -16,6 +16,7 @@ Please :star: this repo to help us improve the quality.
 ## Requirements
 * python
 * tkinter module
+* pygame module
 
 ## How To Use It
 1. Download Python from this link: https://www.python.org/downloads/
