@@ -4,6 +4,7 @@
 
 This is a simple music player written in Python With Tkinter & Pygame modules.
 
+
 ## #100daysofcode
 Almost a hundred days ago from now (01/10/2020), I decided to do the #100daysofcode challenge. This challenge is simply for someone to code every day and post on social media a picture shows that he wrote a code (every day). And than they share with us the final project.<br>
 But me..! I did it differently, every day I built an app, a game, a web page or a desktop app. Every day something new and I shared all my apps simulation on my Instagram account (you can see my highlight stories), and than I'll mix all my small apps in one big project. So I decided to share all projects with you.<br>
