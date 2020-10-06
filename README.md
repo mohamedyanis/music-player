@@ -31,7 +31,7 @@ pip install pygame
 ```
 3. Install this repository, click <a href="https://github.com/mohamedyanis/music-player/archive/main.zip"> here </a> to install it.
 4. Extract the folder
-5. Run the ```python music_player.py```
+5. Run the ```music_player.py``` file
 
 ## Contributing 💡
 If you want to contribute to this project and make it better with new ideas, your pull request is very welcomed.
