@@ -13,12 +13,8 @@ from pygame import mixer
 
 root = tk.ThemedTk()
 root.get_themes()                 # Returns a list of all themes that can be set
-root.set_theme("radiance")         # Sets an available theme
+root.set_theme("radiance")        
 
-# Fonts - Arial (corresponds to Helvetica), Courier New (Courier), Comic Sans MS, Fixedsys,
-# MS Sans Serif, MS Serif, Symbol, System, Times New Roman (Times), and Verdana
-#
-# Styles - normal, bold, roman, italic, underline, and overstrike.
 
 statusbar = ttk.Label(root, text="Welcome to Yanis's Music Player", relief=SUNKEN, anchor=W, font='Times 10 italic')
 statusbar.pack(side=BOTTOM, fill=X)
@@ -67,7 +63,7 @@ subMenu = Menu(menubar, tearoff=0)
 menubar.add_cascade(label="Help", menu=subMenu)
 subMenu.add_command(label="About Us", command=about_us)
 
-mixer.init()  # initializing the mixer
+mixer.init()  # mixer initializing
 
 root.title("Yanis's Music Player")
 root.iconbitmap(r'images/melody.ico')
@@ -120,6 +116,7 @@ def show_details(play_song):
         total_length = a.get_length()
 
     # div - total_length/60, mod - total_length % 60
+    
     mins, secs = divmod(total_length, 60)
     mins = round(mins)
     secs = round(secs)
@@ -132,7 +129,7 @@ def show_details(play_song):
 
 def start_count(t):
     global paused
-    # mixer.music.get_busy(): - Returns FALSE when we press the stop button (music stop playing)
+    # mixer.music.get_busy(): - Returns FALSE when we press the stop button (music stop playing)  #Error ya mhaynak
     # Continue - Ignores all of the statements below it. We check if music is paused or not.
     current_time = 0
     while current_time <= t and mixer.music.get_busy():
@@ -193,7 +190,7 @@ def rewind_music():
 def set_vol(val):
     volume = float(val) / 100
     mixer.music.set_volume(volume)
-    # set_volume of mixer takes value only from 0 to 1. Example - 0, 0.1,0.55,0.54.0.99,1
+    # set_volume of mixer takes value only from 0 to 1.
 
 
 muted = FALSE
