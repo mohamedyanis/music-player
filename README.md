@@ -17,6 +17,13 @@ But me..! I did it differently, every day I built an app, a game, a web page or 
 ## Thank _You_!
 Please :star: this repo to help us improve the quality.
 
+## Screenshots
+Home           | Scan Server IP :camera:
+:---------------------:|:------------------:
+![screenshoot](screenshots/mp1.png) | ![screenshoot](screenshots/mp2.png)
+Remote Control           | Server App
+![screenshoot](screenshots/mp1.png) | ![screenshoot](screenshots/mp2.png)
+
 ## Requirements
 * python
 * tkinter module
