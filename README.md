@@ -22,7 +22,7 @@ Home
 :---------------------:
 ![screenshoot](screenshots/mp1.png)
 songs
-:------------------:
+:---------------------:
 ![screenshoot](screenshots/mp2.png)
 
 ## Requirements
