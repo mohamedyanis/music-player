@@ -18,7 +18,7 @@ But me..! I did it differently, every day I built an app, a game, a web page or 
 Please :star: this repo to help us improve the quality.
 
 ## Screenshots
-Home           | Songs :music:
+Home           | Songs :computer:
 :---------------------:|:------------------:
 ![screenshoot](screenshots/mp1.png) |<br> ![screenshoot](screenshots/mp2.png)
 
