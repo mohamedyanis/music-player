@@ -19,7 +19,6 @@ Please :star: this repo to help us improve the quality.
 
 ## Screenshots
 Home           | Songs 
-:---------------------:|:------------------:
 ![screenshoot](screenshots/mp1.png) | ![screenshoot](screenshots/mp2.png)
 
 ## Requirements
