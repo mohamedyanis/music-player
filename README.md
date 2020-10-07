@@ -22,7 +22,7 @@ But me..! I did it differently, every day I built an app, a game, a web page or 
 * [x] Sound volume adjustment or mute it.
 * [x] Show the time spent in the song.
 * [x] Add or Delete many songs.
-* [x] Ability to choise many types of songs (.mp3, .wav, .ape, .aaff ...)
+* [x] Ability to choise many types of songs (.mp3, .wav, .ape, .aaff ...).
 
 ## Thank _You_!
 Please :star: this repo to help us improve the quality.
