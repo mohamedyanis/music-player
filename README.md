@@ -53,6 +53,6 @@ pip install pygame
 5. Run the ```music_player.py``` file
 
 ## Contributing 💡
-If you want to contribute to this project and make it better with new ideas, your pull request is very welcomed.
+If you want to contribute to this project and make it better with new ideas, your pull request is very welcomed.<br>
 If you find any issue just put it in the repository issue section, thanks!<br><br>
 .سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ
