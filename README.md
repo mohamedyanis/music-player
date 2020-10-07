@@ -18,12 +18,9 @@ But me..! I did it differently, every day I built an app, a game, a web page or 
 Please :star: this repo to help us improve the quality.
 
 ## Screenshots
-Home           
-:---------------------:
-![screenshoot](screenshots/mp1.png)
-songs
-:---------------------:
-![screenshoot](screenshots/mp2.png)
+Home           | Songs
+:---------------------:|:------------------:
+![screenshoot](screenshots/mp1.png) | ![screenshoot](screenshots/mp2.png)
 
 ## Requirements
 * python
