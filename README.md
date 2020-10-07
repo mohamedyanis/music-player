@@ -21,8 +21,6 @@ Please :star: this repo to help us improve the quality.
 Home           | Scan Server IP :camera:
 :---------------------:|:------------------:
 ![screenshoot](screenshots/mp1.png) | ![screenshoot](screenshots/mp2.png)
-Remote Control           | Server App
-![screenshoot](screenshots/mp1.png) | ![screenshoot](screenshots/mp2.png)
 
 ## Requirements
 * python
