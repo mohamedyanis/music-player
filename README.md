@@ -3,8 +3,6 @@
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
 
 This is a simple music player written in Python With Tkinter & Pygame modules.<br>
-With this desktop app you can listen to the music and and
-
 
 ## #100daysofcode
 Almost a hundred days ago from now (01/10/2020), I decided to do the #100daysofcode challenge. This challenge is simply for someone to code every day and post on social media a picture shows that he wrote a code (every day). And than they share with us the final project.<br>
@@ -14,12 +12,14 @@ But me..! I did it differently, every day I built an app, a game, a web page or 
 * [x] Free & Open Source
 * [x] Very Easy to use
 * [x] No Internet connection required
+* [x] <del> Auto replay or next
 
 ## Options:
 * [x] Ability to Start, Pause, Stop and Replay the song.
 * [x] Sound volume adjustment or mute it.
 * [x] Show the time spent in the song.
 * [x] Add or Delete many songs.
+* [x] Ability to choise many types of songs (.mp3, .wav, .ape, .aaff ...)
 
 ## Thank _You_!
 Please :star: this repo to help us improve the quality.
