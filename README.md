@@ -41,12 +41,12 @@ Home           | Songs
 1. Download Python from this link: https://www.python.org/downloads/
 2. Install the packeges, write in your command (cmd):
 ```bash
+pip install tkinter
+pip install pygame
 pip install time
 pip install threading
-pip install tkinter
 pip install ttkthemes
 pip install mutagen
-pip install pygame
 ```
 3. Install this repository, click <a href="https://github.com/mohamedyanis/music-player/archive/main.zip"> here </a> to install it.
 4. Extract the folder
