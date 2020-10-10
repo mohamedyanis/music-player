@@ -1,5 +1,5 @@
 # Music Player
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
 
 This is a simple music player written in Python With Tkinter & Pygame modules.<br>
